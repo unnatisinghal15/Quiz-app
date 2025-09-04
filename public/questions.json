@@ -1,0 +1,42 @@
+[
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the chemical symbol for Gold?",
+    "correct_answer": "Au",
+    "incorrect_answers": ["Ag", "Gd", "Ga"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country has the largest land area?",
+    "correct_answer": "Russia",
+    "incorrect_answers": ["Canada", "China", "United States"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the game 'Portal', what is the name of the AI antagonist?",
+    "correct_answer": "GLaDOS",
+    "incorrect_answers": ["Wheatley", "Atlas", "P-body"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who was the first President of the United States?",
+    "correct_answer": "George Washington",
+    "incorrect_answers": ["Thomas Jefferson", "John Adams", "Benjamin Franklin"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What does CPU stand for?",
+    "correct_answer": "Central Processing Unit",
+    "incorrect_answers": ["Computer Personal Unit", "Central Process Unit", "Control Processing Unit"]
+  }
+]

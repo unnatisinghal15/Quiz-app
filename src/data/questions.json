@@ -1,0 +1,216 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "What does HTML stand for?",
+    "options": ["Hyperlinks and Text Markup Language", "Home Tool Markup Language", "Hyper Text Markup Language", "Hyper Transfer Markup Language"],
+    "answer": 2
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which CSS property controls the text size?",
+    "options": ["font-style", "text-size", "font-size", "text-style"],
+    "answer": 2
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "Inside which HTML element do we put the JavaScript?",
+    "options": ["<js>", "<scripting>", "<script>", "<javascript>"],
+    "answer": 2
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Which symbol is used for comments in CSS?",
+    "options": ["// comment //", "<!-- comment -->", "/* comment */", "# comment"],
+    "answer": 2
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Which tag creates a clickable link in HTML?",
+    "options": ["<a>", "<link>", "<href>", "<url>"],
+    "answer": 0
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Which attribute specifies an image source in HTML?",
+    "options": ["src", "href", "link", "path"],
+    "answer": 0
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Which property is used to change the background color in CSS?",
+    "options": ["bgcolor", "background-color", "color-background", "bg-color"],
+    "answer": 1
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "Which of these is a JavaScript framework?",
+    "options": ["Laravel", "React", "Django", "Rails"],
+    "answer": 1
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Which HTML element is used to display the largest heading?",
+    "options": ["<h6>", "<head>", "<h1>", "<heading>"],
+    "answer": 2
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Which keyword is used to declare a variable in JavaScript?",
+    "options": ["int", "string", "var", "declare"],
+    "answer": 2
+  },
+
+  
+  {
+    "id": 11,
+    "difficulty": "medium",
+    "question": "Which of the following is NOT a semantic HTML element?",
+    "options": ["<article>", "<section>", "<div>", "<header>"],
+    "answer": 2
+  },
+  {
+    "id": 12,
+    "difficulty": "medium",
+    "question": "In CSS, what does the 'z-index' property control?",
+    "options": ["Transparency", "Stacking order", "Zoom level", "Font size"],
+    "answer": 1
+  },
+  {
+    "id": 13,
+    "difficulty": "medium",
+    "question": "Which method is used to parse a JSON string into a JavaScript object?",
+    "options": ["JSON.parse()", "JSON.stringify()", "JSON.object()", "JSON.convert()"],
+    "answer": 0
+  },
+  {
+    "id": 14,
+    "difficulty": "medium",
+    "question": "What is the default position property value of an HTML element?",
+    "options": ["relative", "absolute", "static", "fixed"],
+    "answer": 2
+  },
+  {
+    "id": 15,
+    "difficulty": "medium",
+    "question": "Which operator is used to assign a value to a variable in JavaScript?",
+    "options": ["-", "=", "==", "==="],
+    "answer": 1
+  },
+  {
+    "id": 16,
+    "difficulty": "medium",
+    "question": "Which event occurs when the user clicks on an HTML element?",
+    "options": ["onmouseclick", "onmouseover", "onchange", "onclick"],
+    "answer": 3
+  },
+  {
+    "id": 17,
+    "difficulty": "medium",
+    "question": "Which CSS unit is relative to the root element’s font size?",
+    "options": ["em", "px", "rem", "%"],
+    "answer": 2
+  },
+  {
+    "id": 18,
+    "difficulty": "medium",
+    "question": "Which HTML attribute is used to define inline styles?",
+    "options": ["font", "styles", "style", "class"],
+    "answer": 2
+  },
+  {
+    "id": 19,
+    "difficulty": "medium",
+    "question": "Which JavaScript array method removes the last element of an array?",
+    "options": ["shift()", "pop()", "splice()", "remove()"],
+    "answer": 1
+  },
+  {
+    "id": 20,
+    "difficulty": "medium",
+    "question": "Which protocol is used to fetch resources over the web?",
+    "options": ["SMTP", "HTTP", "FTP", "SSH"],
+    "answer": 1
+  },
+
+  
+  {
+    "id": 21,
+    "difficulty": "hard",
+    "question": "Which of the following is true about 'const' in JavaScript?",
+    "options": ["Its value can be changed later", "It must be initialized at declaration", "It creates a global variable", "It cannot hold objects"],
+    "answer": 1
+  },
+  {
+    "id": 22,
+    "difficulty": "hard",
+    "question": "What does the CSS property 'will-change' do?",
+    "options": ["Optimizes animations", "Changes the element color", "Forces repaint", "None of the above"],
+    "answer": 0
+  },
+  {
+    "id": 23,
+    "difficulty": "hard",
+    "question": "Which HTTP status code means 'Unauthorized'?",
+    "options": ["200", "301", "401", "403"],
+    "answer": 2
+  },
+  {
+    "id": 24,
+    "difficulty": "hard",
+    "question": "What is a closure in JavaScript?",
+    "options": ["A function bundled with its lexical scope", "A variable that never changes", "A deprecated syntax", "A type of class"],
+    "answer": 0
+  },
+  {
+    "id": 25,
+    "difficulty": "hard",
+    "question": "Which CSS layout module allows for two-dimensional control?",
+    "options": ["Flexbox", "Grid", "Float", "Box Model"],
+    "answer": 1
+  },
+  {
+    "id": 26,
+    "difficulty": "hard",
+    "question": "In JavaScript, which method is used to schedule a function after a delay?",
+    "options": ["setTimeout()", "setInterval()", "delay()", "schedule()"],
+    "answer": 0
+  },
+  {
+    "id": 27,
+    "difficulty": "hard",
+    "question": "Which of these is NOT a valid HTTP request method?",
+    "options": ["GET", "POST", "SEND", "PATCH"],
+    "answer": 2
+  },
+  {
+    "id": 28,
+    "difficulty": "hard",
+    "question": "Which HTML API provides methods for offline web applications?",
+    "options": ["Web Workers", "AppCache", "LocalStorage", "Service Workers"],
+    "answer": 1
+  },
+  {
+    "id": 29,
+    "difficulty": "hard",
+    "question": "Which CSS property defines how an element is displayed in 3D space?",
+    "options": ["perspective", "transform-style", "z-index", "translateZ"],
+    "answer": 1
+  },
+  {
+    "id": 30,
+    "difficulty": "hard",
+    "question": "Which JavaScript feature allows async code to look synchronous?",
+    "options": ["Callbacks", "Promises", "Async/Await", "Generators"],
+    "answer": 2
+  }
+]
